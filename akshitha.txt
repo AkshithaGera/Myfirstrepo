@@ -1,0 +1,122 @@
+<html>
+  <head>
+    <title>
+      My first Webpage.
+    </title>
+  </head
+  <body>
+    <h1>
+      Welcome to my website. 
+    </h1>
+    <p>
+      This is my first webpage using HTML! 
+    </p>
+    <img src="/Screenshot_2025-01-28-22-26-34-103_com.android.chrome.jpg" alt="sample image" height="500" width="220">
+    <p>
+      Visit
+      <a href="/IMG-20250201-WA0046.jpg">
+        Family
+      </a>
+    </p>
+    <h2>
+      my favourite songs
+    </h2>
+    <ul>
+      <li>
+        Hindi songs
+      </li>
+      <li>
+        Telugu melody songs
+      </li>
+      <li>
+        Title songs
+      </li>
+    </ul>
+    <h2>
+      my favorite food items
+    </h2>
+    <ol>
+      <li>
+        Biryani
+      </li
+      <li>
+        Chicken
+      </li
+      <li>
+        palav
+      </li>
+      <li>
+        Gongura
+      </li>
+      <li>
+        Ice cream
+      </li>
+      <li>
+        Gulabjaamun
+      </li>
+    </ol>
+    <h2>
+      Contact me
+    </h2>
+    <form>
+      <label for="name">
+        Name:
+      </label>
+      <input type="text" id="name" name="name">
+      </input
+      <label for="email">
+        Email:
+      </label
+      <input type="email" id="email" name="email">
+      
+      </input>
+    </form>
+    <h2>
+      Student grades
+    </h2>
+    <table border="2">
+      <th>
+        Sname
+      </th>
+      <th>
+        Smarks
+      </th>
+      <th>
+        Grade
+      </th>
+      <tr>
+        <td>
+          Akshitha
+        </td>
+        <td>
+          98
+        </td>
+        <td>
+          A
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Ravi
+        </td>
+        <td>
+          100
+        </td>
+        <td>
+          A+
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Avinash
+        </td>
+        <td>
+          89
+        </td
+        <td>
+          B
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
